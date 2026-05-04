@@ -1,8 +1,9 @@
 <p align="center">
   <img src="lumen-logo.svg" alt="Lumen Logo" width="120" />
+  <img src="lumen-wordmark.svg" alt="LUMEN"/>
 </p>
 
-<h1 align="center">Lumen</h1>
+
 
 <p align="center">
   Enterprise social learning, built for the modern workforce.
