@@ -27,8 +27,8 @@ Lumen is a B2B SaaS platform that delivers corporate training through a vertical
 
 ## Status
 
-Pre-launch. Currently in active development.
+Pre-launch. Currently in Closed Alpha Testing
 
 ---
 
-<p align="center">Built by <a href="https://hab8.in">Hab8 Technologies</a> · Sharjah, UAE</p>
+<p align="center">Built by <a href="https://hab8.in">Hab8 Technologies</a> · Developed By Vaishnav S</p>
